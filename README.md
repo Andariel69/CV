@@ -1,2 +1,2 @@
-# CV
-Visit card html+CSS+js
+# ELENAS CV
+Simple visit card HTML+CSS+JS
